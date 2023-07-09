@@ -1,4 +1,4 @@
-# Final Project:
+# CS50P Final Project:
 ## Requirements
 - [x] Must be written in python
 - [x] Must have main function in project.py
@@ -8,7 +8,7 @@
 - [x] Any pip installable libraries must be listed, one per line in a file called requirements.txt
 
 ## CRICKET SCORER
-#### Video Demo:  <URL HERE>
+#### Video Demo:  https://www.youtube.com/watch?v=lGvARdqnyqY&ab_channel=RichardOates
 #### Description:
 
 ### Purpose
