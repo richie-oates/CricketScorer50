@@ -1,0 +1,1179 @@
+[
+  {
+    "home": "Krakow Cricket Club",
+    "away": "Leeds",
+    "innings_per_team": 1,
+    "overs_limit": 5,
+    "all_innings": [
+      {
+        "batting": "Krakow Cricket Club",
+        "bowling": "Leeds",
+        "batters": [
+          {
+            "number": 1,
+            "name": "Rich",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Sachu",
+            "id": null
+          },
+          {
+            "number": 3,
+            "name": "Vicky",
+            "id": null
+          },
+          {
+            "number": 4,
+            "name": "Kayah",
+            "id": null
+          }
+        ],
+        "striker": {
+          "number": 3,
+          "name": "Vicky",
+          "id": null
+        },
+        "nonstriker": {
+          "number": 4,
+          "name": "Kayah",
+          "id": null
+        },
+        "bowlers": [
+          {
+            "number": 1,
+            "name": "Colin",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Claire",
+            "id": null
+          }
+        ],
+        "bowler": {
+          "number": 2,
+          "name": "Claire",
+          "id": null
+        },
+        "overs": [
+          {
+            "deliveries": [
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 4,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "FOUR",
+                "wicket": null
+              },
+              {
+                "runs": 6,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "SIX",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "bwld",
+                  "batter": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 1,
+                    "name": "Colin",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              },
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 3,
+                "delivery_type": "NO_BALL",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 5,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "WIDE",
+                "runs_type": "EXTRAS",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              }
+            ],
+            "bowler/s": []
+          },
+          {
+            "deliveries": [
+              {
+                "runs": 2,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 4,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "FOUR",
+                "wicket": null
+              },
+              {
+                "runs": 2,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "LEG_BYE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "BYE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 2,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "ct",
+                  "batter": {
+                    "number": 1,
+                    "name": "Rich",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Claire",
+                    "id": null
+                  },
+                  "fielder": "Scott",
+                  "assist": null
+                }
+              },
+              {
+                "runs": 1,
+                "bowler_num": 2,
+                "batter_num": 4,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              }
+            ],
+            "bowler/s": []
+          }
+        ],
+        "wickets": [
+          {
+            "type": "bwld",
+            "batter": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "bowler": {
+              "number": 1,
+              "name": "Colin",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          },
+          {
+            "type": "ct",
+            "batter": {
+              "number": 1,
+              "name": "Rich",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Claire",
+              "id": null
+            },
+            "fielder": "Scott",
+            "assist": null
+          }
+        ]
+      },
+      {
+        "batting": "Leeds",
+        "bowling": "Krakow Cricket Club",
+        "batters": [
+          {
+            "number": 1,
+            "name": "Colin",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Claire",
+            "id": null
+          },
+          {
+            "number": 3,
+            "name": "Scott",
+            "id": null
+          },
+          {
+            "number": 4,
+            "name": "Alex",
+            "id": null
+          },
+          {
+            "number": 5,
+            "name": "Ewan",
+            "id": null
+          },
+          {
+            "number": 6,
+            "name": "Megan",
+            "id": null
+          },
+          {
+            "number": 7,
+            "name": "Charlie",
+            "id": null
+          },
+          {
+            "number": 8,
+            "name": "Jaxson",
+            "id": null
+          },
+          {
+            "number": 9,
+            "name": "Thea",
+            "id": null
+          }
+        ],
+        "striker": {
+          "number": 8,
+          "name": "Jaxson",
+          "id": null
+        },
+        "nonstriker": {
+          "number": 9,
+          "name": "Thea",
+          "id": null
+        },
+        "bowlers": [
+          {
+            "number": 1,
+            "name": "Rich",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Sachu",
+            "id": null
+          }
+        ],
+        "bowler": {
+          "number": 1,
+          "name": "Rich",
+          "id": null
+        },
+        "overs": [
+          {
+            "deliveries": [
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "ct",
+                  "batter": {
+                    "number": 1,
+                    "name": "Colin",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 1,
+                    "name": "Rich",
+                    "id": null
+                  },
+                  "fielder": "Sachu",
+                  "assist": null
+                }
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              }
+            ],
+            "bowler/s": []
+          },
+          {
+            "deliveries": [
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "bwld",
+                  "batter": {
+                    "number": 2,
+                    "name": "Claire",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              },
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 4,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "lbw",
+                  "batter": {
+                    "number": 4,
+                    "name": "Alex",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              },
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 5,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "hw_wckt",
+                  "batter": {
+                    "number": 5,
+                    "name": "Ewan",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              },
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 6,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "st",
+                  "batter": {
+                    "number": 6,
+                    "name": "Megan",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "fielder": "Rich",
+                  "assist": null
+                }
+              },
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 7,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "ht_twc",
+                  "batter": {
+                    "number": 7,
+                    "name": "Charlie",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              },
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 8,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "obstr",
+                  "batter": {
+                    "number": 3,
+                    "name": "Scott",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 2,
+                    "name": "Sachu",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              }
+            ],
+            "bowler/s": []
+          },
+          {
+            "deliveries": [],
+            "bowler/s": []
+          },
+          {
+            "deliveries": [],
+            "bowler/s": []
+          }
+        ],
+        "wickets": [
+          {
+            "type": "ct",
+            "batter": {
+              "number": 1,
+              "name": "Colin",
+              "id": null
+            },
+            "bowler": {
+              "number": 1,
+              "name": "Rich",
+              "id": null
+            },
+            "fielder": "Sachu",
+            "assist": null
+          },
+          {
+            "type": "bwld",
+            "batter": {
+              "number": 2,
+              "name": "Claire",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          },
+          {
+            "type": "lbw",
+            "batter": {
+              "number": 4,
+              "name": "Alex",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          },
+          {
+            "type": "hw_wckt",
+            "batter": {
+              "number": 5,
+              "name": "Ewan",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          },
+          {
+            "type": "st",
+            "batter": {
+              "number": 6,
+              "name": "Megan",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "fielder": "Rich",
+            "assist": null
+          },
+          {
+            "type": "ht_twc",
+            "batter": {
+              "number": 7,
+              "name": "Charlie",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          },
+          {
+            "type": "obstr",
+            "batter": {
+              "number": 3,
+              "name": "Scott",
+              "id": null
+            },
+            "bowler": {
+              "number": 2,
+              "name": "Sachu",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          }
+        ]
+      }
+    ],
+    "status": "inplay",
+    "result": "none",
+    "winner": null,
+    "id": 6,
+    "date": "2023-07-08"
+  },
+  {
+    "home": "Krakow",
+    "away": "Leeds",
+    "innings_per_team": 1,
+    "overs_limit": 2,
+    "all_innings": [],
+    "status": "pregame",
+    "result": "none",
+    "winner": null,
+    "id": 7,
+    "date": "2023-07-08"
+  },
+  {
+    "home": "Krakow",
+    "away": "Sheffield",
+    "innings_per_team": 1,
+    "overs_limit": 5,
+    "all_innings": [
+      {
+        "batting": "Krakow",
+        "bowling": "Sheffield",
+        "batters": [
+          {
+            "number": 1,
+            "name": "Micha\u0142",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Pawe\u0142",
+            "id": null
+          },
+          {
+            "number": 3,
+            "name": "Wiktoria",
+            "id": null
+          }
+        ],
+        "striker": {
+          "number": 3,
+          "name": "Wiktoria",
+          "id": null
+        },
+        "nonstriker": {
+          "number": 1,
+          "name": "Micha\u0142",
+          "id": null
+        },
+        "bowlers": [
+          {
+            "number": 1,
+            "name": "Dave",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "John",
+            "id": null
+          }
+        ],
+        "bowler": {
+          "number": 2,
+          "name": "John",
+          "id": null
+        },
+        "overs": [
+          {
+            "deliveries": [
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 6,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "SIX",
+                "wicket": null
+              },
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "NO_BALL",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 4,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "FOUR",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "bwld",
+                  "batter": {
+                    "number": 2,
+                    "name": "Pawe\u0142",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 1,
+                    "name": "Dave",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              }
+            ],
+            "bowler/s": []
+          },
+          {
+            "deliveries": [
+              {
+                "runs": 0,
+                "bowler_num": 2,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 2,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 2,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 6,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "SIX",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 2,
+                "batter_num": 3,
+                "delivery_type": "WIDE",
+                "runs_type": "EXTRAS",
+                "boundary": "NONE",
+                "wicket": null
+              }
+            ],
+            "bowler/s": []
+          }
+        ],
+        "wickets": [
+          {
+            "type": "bwld",
+            "batter": {
+              "number": 2,
+              "name": "Pawe\u0142",
+              "id": null
+            },
+            "bowler": {
+              "number": 1,
+              "name": "Dave",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          }
+        ]
+      }
+    ],
+    "status": "inplay",
+    "result": "none",
+    "winner": null,
+    "id": 5,
+    "date": "2023-07-07"
+  },
+  {
+    "home": "Krakow",
+    "away": "Harvard",
+    "innings_per_team": 1,
+    "overs_limit": 1,
+    "all_innings": [
+      {
+        "batting": "Harvard",
+        "bowling": "Krakow",
+        "batters": [
+          {
+            "number": 1,
+            "name": "David",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Brian",
+            "id": null
+          },
+          {
+            "number": 3,
+            "name": "Carter",
+            "id": null
+          }
+        ],
+        "striker": {
+          "number": 2,
+          "name": "Brian",
+          "id": null
+        },
+        "nonstriker": {
+          "number": 3,
+          "name": "Carter",
+          "id": null
+        },
+        "bowlers": [
+          {
+            "number": 1,
+            "name": "Rich",
+            "id": null
+          }
+        ],
+        "bowler": {
+          "number": 1,
+          "name": "Rich",
+          "id": null
+        },
+        "overs": [
+          {
+            "deliveries": [
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 4,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "FOUR",
+                "wicket": null
+              },
+              {
+                "runs": 6,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "SIX",
+                "wicket": null
+              },
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 0,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "NONE",
+                "boundary": "NONE",
+                "wicket": {
+                  "type": "bwld",
+                  "batter": {
+                    "number": 1,
+                    "name": "David",
+                    "id": null
+                  },
+                  "bowler": {
+                    "number": 1,
+                    "name": "Rich",
+                    "id": null
+                  },
+                  "fielder": null,
+                  "assist": null
+                }
+              },
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 3,
+                "delivery_type": "NO_BALL",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 4,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "FOUR",
+                "wicket": null
+              }
+            ],
+            "bowler/s": []
+          }
+        ],
+        "wickets": [
+          {
+            "type": "bwld",
+            "batter": {
+              "number": 1,
+              "name": "David",
+              "id": null
+            },
+            "bowler": {
+              "number": 1,
+              "name": "Rich",
+              "id": null
+            },
+            "fielder": null,
+            "assist": null
+          }
+        ]
+      },
+      {
+        "batting": "Krakow",
+        "bowling": "Harvard",
+        "batters": [
+          {
+            "number": 1,
+            "name": "Rich",
+            "id": null
+          },
+          {
+            "number": 2,
+            "name": "Sachu",
+            "id": null
+          }
+        ],
+        "striker": {
+          "number": 1,
+          "name": "Rich",
+          "id": null
+        },
+        "nonstriker": {
+          "number": 2,
+          "name": "Sachu",
+          "id": null
+        },
+        "bowlers": [
+          {
+            "number": 1,
+            "name": "David",
+            "id": null
+          }
+        ],
+        "bowler": {
+          "number": 1,
+          "name": "David",
+          "id": null
+        },
+        "overs": [
+          {
+            "deliveries": [
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 6,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "SIX",
+                "wicket": null
+              },
+              {
+                "runs": 5,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "WIDE",
+                "runs_type": "EXTRAS",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 2,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 1,
+                "bowler_num": 1,
+                "batter_num": 2,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "NONE",
+                "wicket": null
+              },
+              {
+                "runs": 6,
+                "bowler_num": 1,
+                "batter_num": 1,
+                "delivery_type": "GOOD",
+                "runs_type": "BAT",
+                "boundary": "SIX",
+                "wicket": null
+              }
+            ],
+            "bowler/s": []
+          }
+        ],
+        "wickets": []
+      }
+    ],
+    "status": "completed",
+    "result": "winner",
+    "winner": "Krakow",
+    "id": 12,
+    "date": "2023-07-09"
+  },
+  {
+    "home": "Krakow",
+    "away": "Harvard",
+    "innings_per_team": 1,
+    "overs_limit": 1,
+    "all_innings": [],
+    "status": "pregame",
+    "result": "none",
+    "winner": null,
+    "id": 13,
+    "date": "2023-07-09"
+  }
+]
